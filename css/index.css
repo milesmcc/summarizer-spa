@@ -1,0 +1,37 @@
+#input {
+    margin-top: 5%;
+}
+
+#error {
+    margin-top: 5%;
+    display: none;
+}
+
+#loading {
+    margin-top: 5%;
+    display: none;
+}
+
+#read {
+    margin-top: 5%;
+    display: none;
+}
+
+#articleImage {
+    width: 100%;
+    max-height: 300px;
+}
+
+#articleCard {
+    top: 5%;
+}
+.affix {
+    top:5%;
+    width: 40%;
+    right: 5%;
+    position:fixed;
+}
+
+footer {
+    bottom: 5%;
+}
