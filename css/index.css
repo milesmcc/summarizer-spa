@@ -22,14 +22,18 @@
     max-height: 300px;
 }
 
-#articleCard {
-    top: 5%;
-}
-.affix {
-    top:5%;
-    width: 40%;
-    right: 5%;
-    position:fixed;
+
+
+@media screen and (min-width:1000px) {
+    .affix {
+        top:5%;
+        width: 40%;
+        right: 5%;
+        position:fixed;
+    }
+    #articleCard {
+        top: 5%;
+    }
 }
 
 footer {
